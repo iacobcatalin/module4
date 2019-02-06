@@ -60,3 +60,4 @@ function pageLeave(){
 // lista de patrate - x la numar
 // drag and drop la ele
 // hit test -  cand doua patrate se ating se fac galbene;
+// bounce 
